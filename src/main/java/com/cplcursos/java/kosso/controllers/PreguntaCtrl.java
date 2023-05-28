@@ -88,6 +88,7 @@ public class PreguntaCtrl {
                     break;
                 case "votos":
                     //pageable = PageRequest.of(currentPage - 1, pageSize, Sort.by("votos").ascending());
+
                     break;
                 default:
             }
